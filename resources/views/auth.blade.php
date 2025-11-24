@@ -206,7 +206,7 @@
             background-repeat: no-repeat;
             background-position: right 10px center;
             background-size: 12px;
-            padding-right: 30px; /* Memberi ruang untuk panah */
+            padding-right: 30px;
         }
 
         .form-group input:focus,
