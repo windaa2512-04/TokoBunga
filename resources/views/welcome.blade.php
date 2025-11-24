@@ -135,7 +135,6 @@
             color: var(--color-pastel-bliss-1); 
         }
         
-        /* --- MODIFIKASI TOMBOL NAVIGASI (Login/Register) - DIPERBAIKI --- */
         .nav-button {
             padding: 10px 25px; 
             border-radius: 25px; 
