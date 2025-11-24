@@ -142,7 +142,7 @@
             background-color: var(--color-button-primary); /* Warna dasar coklat */
             color: white !important;
             font-weight: 600;
-            transition: all 0.4s ease-in-out; /* Transisi lebih halus */
+            transition: all 0.4s ease-in-out; /* Transisi lebih alus */
             border: none; 
             position: relative; /* Penting untuk z-index teks */
             z-index: 1; /* Teks di atas background */
